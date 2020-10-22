@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/human-rolodex/static/css/main.bff06b53.chunk.css",
+    "main.js": "/human-rolodex/static/js/main.e9873b81.chunk.js",
+    "main.js.map": "/human-rolodex/static/js/main.e9873b81.chunk.js.map",
+    "runtime-main.js": "/human-rolodex/static/js/runtime-main.e47adc39.js",
+    "runtime-main.js.map": "/human-rolodex/static/js/runtime-main.e47adc39.js.map",
+    "static/js/2.7c3df29f.chunk.js": "/human-rolodex/static/js/2.7c3df29f.chunk.js",
+    "static/js/2.7c3df29f.chunk.js.map": "/human-rolodex/static/js/2.7c3df29f.chunk.js.map",
+    "index.html": "/human-rolodex/index.html",
+    "precache-manifest.43f0ce60247533f01fb18a2fdc9846b3.js": "/human-rolodex/precache-manifest.43f0ce60247533f01fb18a2fdc9846b3.js",
+    "service-worker.js": "/human-rolodex/service-worker.js",
+    "static/css/main.bff06b53.chunk.css.map": "/human-rolodex/static/css/main.bff06b53.chunk.css.map",
+    "static/js/2.7c3df29f.chunk.js.LICENSE.txt": "/human-rolodex/static/js/2.7c3df29f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47adc39.js",
+    "static/js/2.7c3df29f.chunk.js",
+    "static/css/main.bff06b53.chunk.css",
+    "static/js/main.e9873b81.chunk.js"
+  ]
+}
